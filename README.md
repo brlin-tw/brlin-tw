@@ -1,3 +1,3 @@
 # 林博仁<br>Buo-ren Lin
 
-Refer <https://brlin.me> for more information.
+Refer to [my website](https://brlin.me) for more information.
